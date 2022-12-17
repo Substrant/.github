@@ -1,2 +1,4 @@
 # Substrant
-This is an organization that manages larger and throughly-maintained projects created by [@RealNickk](https://github.com/RealNickk).
+Advancing development through open-source innovation and reverse engineering.
+
+[https://substrant.dev/](https://substrant.dev/)
